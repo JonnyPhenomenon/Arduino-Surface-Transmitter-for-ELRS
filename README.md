@@ -9,5 +9,5 @@ Initially we will be working toward making an arduino send commands/inputs from 
 Inspired by kkbin505’s Arduino Transmitter for ELRS project https://github.com/kkbin505/Arduino-Transmitter-for-ELRS
 We will be expanding on some of the work already done by kkbin505, cruwallero, Pawel, the ExpressLRS devs, and probably a lot of others. 
 
-All information about this project will be found in the wiki. 
-https://github.com/JonnyPhenomenon/Arduino-Surface-Transmitter-for-ELRS/wiki
+**All information about this project will be found in the wiki. 
+https://github.com/JonnyPhenomenon/Arduino-Surface-Transmitter-for-ELRS/wiki**
